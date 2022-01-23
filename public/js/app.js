@@ -18,3 +18,4 @@ model.addEventListener("click",function(e){
         largeImage.classList.remove("open"); 
     }
 });
+
